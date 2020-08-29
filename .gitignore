@@ -1,0 +1,9 @@
+# ignore vim plugins
+.vim/plugged
+vim/plugged
+.DS_Store
+
+.vim/tmp
+vim/tmp
+
+scripts

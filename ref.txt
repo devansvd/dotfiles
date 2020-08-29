@@ -1,0 +1,10 @@
+Way to symlink:
+ln -s ~/dotfiles/vim ~/.vim
+ln -s ~/dotfiles/tmux.conf ~/.tmux.conf
+
+Write bash script to create backup dir: maybe a crontab to clear old backups > 2 days ?
+mkdir -p ~/.vim/tmp/{backup,swp,undodir}
+
+
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+

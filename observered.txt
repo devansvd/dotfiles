@@ -1,0 +1,24 @@
+
+
+X File path completion Must - ctrl x + ctrl f - Omni complete, ctrl n and ctrl p to navigate
+- Scrolling inside vim terminal need to learn
+- Resize window size
+- Mappings for move around windows
+X Mapping for move around tabs
+- Toggle word wrap :set wrap!
+- Wrapped text moving up and down not working
+    ref - https://vim.fandom.com/wiki/Move_cursor_by_display_lines_when_wrapping
+- Wrap between 80 lines
+- Auto hide highlighting after search
+- Ctrl P search through buffer mapping
+- Change capslock to leader key
+- trim white space
+- formatting code
+- Mapping for plug Install
+
+Theme should be consistent for all the editor maybe find one common theme
+True color theme
+
+http://vimcolors.com/
+https://www.reddit.com/r/vim/comments/7hhzaq/favorite_color_scheme/
+
